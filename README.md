@@ -5,7 +5,10 @@ This thesis deals with the detection and localization of Noctilucent clouds (NLC
 After detecting NLC pixels, in images from two different cameras located in same observation plain distance and height to the NLC is calculated using Homogeneous co-ordinate transformations and triangulation techniques.
 
 NLC structures
+
 <img src="NLC.gif" width="60%">
 
+
 SFV Signal Amplitude
+
 <img src="Spatial filter signal Amplitude.gif" width="60%">
